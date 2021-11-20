@@ -4,7 +4,7 @@
 
 "plugins_": {
 
-"Reply.lua":"https://t.me/x_xxax",
+["Reply.lua"]:("https://t.me/x_xxax"),
 
 "games.lua":"https://t.me/x_xxax",
 
