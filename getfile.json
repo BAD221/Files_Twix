@@ -1,12 +1,10 @@
 {
 
 "result": true,
-
+  
 "plugins_": {
 
-"Reply.lua":"t.me/x_xxax",
-
-"games.lua":"t.me/x_xxax",
+"AddedMe.lua":"[ملف امر منو ضافني](https://t.me/x_xxax)",
 
 }
 
