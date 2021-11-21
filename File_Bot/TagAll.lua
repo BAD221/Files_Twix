@@ -2,7 +2,7 @@ local function TagAll(msg)
 local text = msg.content_.text_
 if ChatType == 'sp' or ChatType == 'gp'  then
 if Manager(msg) then
-if text == "all" or text == "@all" or text == "#all" then
+if text == "all" or text == "@all" then
 if Devhid:get(Twix.."hid:TagAll:Time"..msg.chat_id_..':'..msg.sender_user_id_) then  
 Dev_hid(msg.chat_id_, msg.id_, 1, '⌔︙انتظر دقيقه بعد ارسال الامر', 1, 'md')
 return false  
