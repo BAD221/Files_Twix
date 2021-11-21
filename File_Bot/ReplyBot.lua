@@ -31,32 +31,32 @@ local function Reply(msg)
     Dev_Hid(msg.chat_id_, msg.id_, 1,rd, 1, 'html')
     end
     if text == 'دي' or text == 'ديي' or text == 'دي بابه' then 
-    TwixTEAM =  "آخلُِآقٌڪڪ لُِڪڪ 𖠙 😒🔪"
+    TwixTEAM =  "اخلاق شوارع شردك هسه 𖠙 😒🔪"
     Dev_Hid(msg.chat_id_, msg.id_, 1, TwixTEAM, 1, 'md') 
     return false
     end
     if text == 'السلام عليكم' or text == 'سلام عليكم' then 
-    TwixTEAM =  "ياھَہّلْاا ۅﻋ̝̚لْيڪْم الْﺳ̭͠ لْام 𖠙 🤤♥️"
+    TwixTEAM =  "وعليكم السلام هلا بطيزي هلا 𖠙 🤤♥️"
     Dev_Hid(msg.chat_id_, msg.id_, 1, TwixTEAM, 1, 'md') 
     return false
     end
     if text == '😭💔' or text == '😭😭' or text == '😭😭😭' or text == '😿💔' or text == '😭😭😭' or text == '😭😭😭😭' then 
-    TwixTEAM =  "مآآعٍآشُ آلُِي يزعٍلُِڪڪ 𖠙 😏♥️"
+    TwixTEAM =  "ضل ابجي بوجه الله لفكر 𖠙 😏♥️"
     Dev_Hid(msg.chat_id_, msg.id_, 1, TwixTEAM, 1, 'md') 
     return false
     end
     if text == '🌚💔' or text == '💔🌚' or text == '🚶‍♂💔' or text == '💔' or text == '😔💔' or text == '🚶‍♀💔' or text == '😭' then 
-    TwixTEAM =  "شبّيي اﻟ̣̣פﻟ̣̣و 𖠙 😿💔"
+    TwixTEAM =  "شبي لوصخ 𖠙 😿💔"
     Dev_Hid(msg.chat_id_, msg.id_, 1, TwixTEAM, 1, 'md') 
     return false
     end
     if text == 'باي' or text == 'بااي' or text == 'اروح' or text == 'اروح احسن' or text == 'اولي احسن' or text == 'راح اروح' or text == 'باي انام' then 
-    TwixTEAM =  "أُرٌجُعُ عٍيدِهآآ مٍوو تنِْسةه 𖠙 🤤♥️"
+    TwixTEAM =  "اهو هم كال باي لوصخ غير يولي 𖠙 🤤♥️"
     Dev_Hid(msg.chat_id_, msg.id_, 1, TwixTEAM, 1, 'md') 
     return false
     end
     if text == 'هلو' or text == 'هلاو' or text == 'هلا' or text == 'هلاوو' or text == 'هيلاو' or text == 'هيلاوو' or text == 'هلاا' then 
-    local TwixTEAM = {"اࠗط็لق֯ق֯ هٞللاࠗ୨و 𖠙 🤤♥️" ,"هۂَلاا نۨہٰورتت يعمۘري 𖠙 🤤♥️" } 
+    local TwixTEAM = {"يهلا ارحب حبيب 𖠙 🤤♥️" ,"لا هلا ولا مرحبا كول شتريد 𖠙 🤤♥️" } 
     DevHid2 = math.random(#TwixTEAM) 
     Dev_Hid(msg.chat_id_, msg.id_, 1, TwixTEAM[Devhid2] , 1, 'md') 
     return false
@@ -68,37 +68,37 @@ local function Reply(msg)
     return false
     end
     if text == 'وينك' or text == 'وينج' then
-    TwixTEAM =  "مْوٌجہوٌدِ يہمْگُ يحلوُ 𖠙 😉♥️"
+    TwixTEAM =  "شتريد خبصت امنه 𖠙 😉♥️"
     Dev_Hid(msg.chat_id_, msg.id_, 1, TwixTEAM, 1, 'md') 
     return false
     end
     if text == 'بوت عواي' or text == 'بوت زربه' or text == 'البوت عاوي' or text == 'البوت زربه' then
-    TwixTEAM =  "اطردكك تجرب ؟ ، 😕🔪"
+    TwixTEAM =  "لتجاوز وذب ميانه لوصخ ، 😕🔪"
     Dev_Hid(msg.chat_id_, msg.id_, 1, TwixTEAM, 1, 'md') 
     return false
     end
     if text == 'نايمين' or text == 'ميتين' then
-    TwixTEAM =  "طُآمسين ووعٍيوونڪ 𖠙 😪🖤ۦ"
+    TwixTEAM =  "جاي اراسل لحب لتزعجني 𖠙 😪🖤ۦ"
     Dev_Hid(msg.chat_id_, msg.id_, 1, TwixTEAM, 1, 'md') 
     return false
     end
     if text == 'هلوباي' or text == 'هلو باي' then  
-    TwixTEAM =  "شحۡسۜيت مۘنۨہ هيجۚ ּكتبت ؟ 🌝♥️"
+    TwixTEAM =  "كلخرا عزيزي 🌝♥️"
     Dev_Hid(msg.chat_id_, msg.id_, 1, TwixTEAM, 1, 'md') 
     return false
     end
     if text == 'اكلك' or text == 'اكلج' or text == 'اكلكم' then 
-    TwixTEAM =  "ڪوولُِ مآڪوولُِ لُِآحٍدِ 𖠙 😉♥️"
+    TwixTEAM =  "كول عاد فضها مشغول 𖠙 😉♥️"
     Dev_Hid(msg.chat_id_, msg.id_, 1, TwixTEAM, 1, 'md')
     return false
     end
     if text == 'فرخ' then
-    TwixTEAM =  "ٰوينۨہهۂَ خۡل احۡصرهۂَ 𖠙 😹♥️" 
+    TwixTEAM =  "ٰماكو فرخ غير ابوك حبيبي 𖠙 😹♥️" 
     Dev_Hid(msg.chat_id_, msg.id_, 1, TwixTEAM, 1, 'md') 
     return false
     end
-    if text == 'سورس عبس' or text == 'سورس بروكس' or text == 'سورس ديف بروكس' or text == 'سورس زربه' or text == 'السورس زربه' or text == 'سورس عاوي' or text == 'السورس عاوي' then 
-    TwixTEAM =  "لُِآ سوورس خآلُِتڪ دِي لُِڪ 𖠙 😒🔪" 
+    if text == 'سورس حدو' or text == 'سورس تويكس' or text == 'سورس زربه' or text == 'السورس زربه' or text == 'سورس عاوي' or text == 'السورس عاوي' then 
+    TwixTEAM =  "دي خايس ما توصلنه 𖠙 😒🔪" 
     Dev_Hid(msg.chat_id_, msg.id_, 1, TwixTEAM, 1, 'md')
     return false
     end
